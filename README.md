@@ -1,0 +1,1 @@
+# Following-is-the-input-NumPy-array-delete-column-two-and-insert-following-new-column-in-its-place.
